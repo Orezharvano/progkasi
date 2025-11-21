@@ -1,13 +1,5 @@
 # programkasir
 sebuah program aplikasi kasir
-
-# KASIR PYTHON SEDERHANA
-# Fitur:
-# - Input nama customer
-# - Menu barang
-# - Pilih barang & jumlah
-# - Hitung total & kembalian
-
 products = {
     1: ("Nasi Goreng", 15000),
     2: ("Mie Ayam", 12000),
@@ -73,6 +65,3 @@ else:
         print(f"\nTerima kasih, {customer}!")
     else:
         print("Uang tidak cukup!")
-
-
-Terima kasih, hilmy!
