@@ -70,3 +70,4 @@ else:
         print(f"\nTerima kasih, {customer}!")
     else:
         print("Uang tidak cukup!")
+
