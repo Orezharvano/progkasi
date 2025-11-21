@@ -1,10 +1,45 @@
 # programkasir
 sebuah program aplikasi kasir
-1.	Masuk ke website python online (https://orezharvano.github.io/progkasi/)
-2.	Masukkan nama customer 
-3.	Pilih barang yang dibeli costumer sesuai yang tertera
-4.	Masukkan jumlah barang
-5.	Masukkan barang lagi jika masih ada yang kurang
-6.	Jika sudah tidak ada yang di tambahkan ketik angka ‘6’
-7.	Masukkan jumlah uang yang diberikan customer
-8.	Selesai
+=== PROGRAM KASIR ===
+Masukkan nama customer: hilmy
+Selamat datang, hilmy!
+
+
+=== MENU PRODUK ===
+1. Nasi Goreng  - Rp15000
+2. Mie Ayam     - Rp12000
+3. Ayam Geprek  - Rp18000
+4. Es Teh       - Rp5000
+5. Air Mineral  - Rp4000
+Pilih ID barang (atau '6' untuk checkout): 2
+Jumlah: 3
+Barang ditambahkan ke keranjang!
+
+
+=== MENU PRODUK ===
+1. Nasi Goreng  - Rp15000
+2. Mie Ayam     - Rp12000
+3. Ayam Geprek  - Rp18000
+4. Es Teh       - Rp5000
+5. Air Mineral  - Rp4000
+Pilih ID barang (atau '6' untuk checkout): 4
+Jumlah: 2
+Barang ditambahkan ke keranjang!
+
+
+=== MENU PRODUK ===
+1. Nasi Goreng  - Rp15000
+2. Mie Ayam     - Rp12000
+3. Ayam Geprek  - Rp18000
+4. Es Teh       - Rp5000
+5. Air Mineral  - Rp4000
+Pilih ID barang (atau '6' untuk checkout): 6
+
+============ KERANJANG BELANJA ============
+Mie Ayam x3 = Rp36000
+Es Teh x2 = Rp10000
+TOTAL: Rp46000
+Jumlah uang customer: 100000
+Kembalian: 54000
+
+Terima kasih, hilmy!
